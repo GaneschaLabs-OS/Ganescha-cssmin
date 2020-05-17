@@ -2,7 +2,7 @@
 'use strict'
 const cssmin = require('ganescha-cssmin');
 const fs = require('fs');
-const [, input, output] = process.argv;
+const [,, input, output] = process.argv;
 
 fs.readFile(input, 'utf8', function (err, content) {
     if(err) {
