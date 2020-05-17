@@ -1,0 +1,19 @@
+{
+  "name": "ganescha-cssmin",
+  "version": "0.0.1",
+  "description": "A small cssminifier based on YUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaneschaLabs-OS/Ganescha-cssmin.git"
+  },
+  "author": "Oliver Jessner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GaneschaLabs-OS/Ganescha-cssmin/issues"
+  },
+  "homepage": "https://github.com/GaneschaLabs-OS/Ganescha-cssmin#readme"
+}
