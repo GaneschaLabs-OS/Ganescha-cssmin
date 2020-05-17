@@ -1,6 +1,7 @@
 # Ganescha-cssmin
 A simple minfied port of YUI cssmin. 
-No extras so small an simple as posible
+No extras so small an simple as posible.
+Only `3.35 KB`
 
 ```javascript
 const cssmin = require('ganescha-cssmin');
