@@ -1,6 +1,6 @@
 {
   "name": "ganescha-cssmin",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "A small cssminifier based on YUI",
   "main": "index.js",
   "bin": "bin.js",
